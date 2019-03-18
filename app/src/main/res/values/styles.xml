@@ -9,7 +9,12 @@
     </style>
 
     <!-- App bar style -->
-    <style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <!-- Instead of using parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse"
+    I used parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid.Inverse"
+    since this style is deprecated.
+    Credit: https://stackoverflow.com/questions/28877156/no-resource-found-that-matches-the-given-name-androidstyle-widget-appcompat-l?answertab=active#tab-top
+    Scroll down to answer by trustidkid. -->
+    <style name="MiwokAppBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid.Inverse">
         <!-- Remove the shadow below the app bar -->
         <item name="elevation">0dp</item>
     </style>
