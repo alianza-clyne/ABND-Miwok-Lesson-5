@@ -6,7 +6,7 @@ To view the app yourself and listen to the songs, simply click [HERE](https://gi
 
 You can also see a pictures of the app below:
 
-![Screenshot of Numbers Fragment](https://i.ibb.co/GtcwYRq/1-Numbers.png)
-![Screenshot of Family Fragment](https://i.ibb.co/NKfkjKd/2-Family.png)
-![Screenshot of Colors Fragment](https://i.ibb.co/vjHTRgk/3-Colors.png)
-![Screenshot of Phrases Fragment](https://i.ibb.co/BCm9NZd/4-Phrases.png)
+![Screenshot of Numbers Fragment](https://i.ibb.co/hDTKsBq/1-Numbers.png)
+![Screenshot of Family Fragment](https://i.ibb.co/2M99HK0/2-Family.png)
+![Screenshot of Colors Fragment](https://i.ibb.co/DMs5hNx/3-Colors.png)
+![Screenshot of Phrases Fragment](https://i.ibb.co/zPNBTW9/4-Phrases.png)
